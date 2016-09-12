@@ -1,0 +1,23 @@
+.highlight {
+  background-color: yellow !important;
+  color: black !important;
+}
+
+.draggable {
+  background-color: #A5DBDE;
+  height: 50px;
+  margin: 10px;
+  padding: 10px 10px 10px 10px;
+  color: white;
+  font-size: 18px;
+
+}
+
+.droppable {
+  background-color: #D3D3D3;
+  height: 50px;
+  margin: 10px;
+  padding: 10px 10px 10px 10px;
+  color: white;
+  font-size: 18px;
+}

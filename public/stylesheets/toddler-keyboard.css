@@ -1,0 +1,14 @@
+tr td{
+  background-color: #F8FCB1;
+}
+
+tr:nth-child(even) td:nth-child(odd),
+tr:nth-child(odd) td:nth-child(even){
+  background-color: #A5DBDE;
+}
+
+table {
+  font-size: 40px;
+  color: white;
+  text-shadow: 2px 2px #D3D3D3;
+}
